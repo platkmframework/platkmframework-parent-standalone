@@ -134,11 +134,6 @@
 	</dependency>
   	<dependency>
 	    <groupId>org.platkmframework</groupId>
-	    <artifactId>platkmframework-code-generator-response</artifactId>
-	    <version>1.0.0-beta</version>
-  	</dependency>
-  	<dependency>
-	    <groupId>org.platkmframework</groupId>
 	    <artifactId>platkmframework-persistence-filter</artifactId>
 	    <version>1.0.0-beta</version>
   	</dependency>
